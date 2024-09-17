@@ -1,0 +1,6 @@
+token:
+  expiration-time: 86400000
+  secrets: VrP5tQJCN4PgzqftNyVsL0qzP12jFAk7Gh4DpWvlg12pS3rlZnQ0lb9tSpFOFTx6VsL0qzP12jFAk7Gh4DpWvlg12pS3rlZn
+
+gateway:
+  ip: 192.168.219.100
